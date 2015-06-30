@@ -1,0 +1,1 @@
+C:\Users\Simon\Documents\_Dev\ExamensArbete\SiolRecieverPrototype\siolReciever\siolReciever.Windows\siolReciever.Windows.csproj;x86

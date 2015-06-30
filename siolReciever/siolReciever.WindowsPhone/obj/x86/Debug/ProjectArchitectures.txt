@@ -1,0 +1,1 @@
+C:\Users\Simon\Documents\_Dev\ExamensArbete\SiolRecieverPrototype\siolReciever\siolReciever.WindowsPhone\siolReciever.WindowsPhone.csproj;x86
